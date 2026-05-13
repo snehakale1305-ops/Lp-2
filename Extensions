@@ -1,0 +1,15 @@
+Remove : rm -rf Lp-2
+cd\
+rm -rf Lp-2
+ls
+
+Github add: git clone path
+File bghaychi asel trr: ls
+Enter : cd Lp-2
+ls
+Run : python ( file name)
+
+For cpp
+
+g++ file name -o main
+./main or ./file name
